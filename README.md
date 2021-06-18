@@ -20,12 +20,18 @@ This is a custom Grafana panel, it will display the time since a given timestamp
 
 The panel is very easy to use and also has quite a few options to customise the simple thing.
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/8492901/122566764-d16c8800-d03f-11eb-8ff5-29ac3f777999.png" alt="Uptime panel">
+</div>
+
 ### Usage
 1. Add a panel
 2. Pick this under "Visualisation"
 3. Add a query returning a unix timestamp
 4. ???
 5. Profit
+
+![image](https://user-images.githubusercontent.com/8492901/122567214-55bf0b00-d040-11eb-919b-f416128e22cd.png)
 
 ### Options
 **Provided Timestamp Format**\
