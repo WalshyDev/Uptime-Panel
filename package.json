@@ -1,5 +1,5 @@
 {
-  "name": "walshydev-uptime",
+  "name": "walshydev-uptime-panel",
   "version": "1.0.0",
   "description": "Used to show uptime of a service/application",
   "scripts": {
