@@ -1,3 +1,7 @@
+# Packaged plugin
+walshydev-uptime/
+walshydev-uptime*.zip
+
 # Logs
 logs
 *.log

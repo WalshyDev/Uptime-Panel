@@ -3,7 +3,7 @@ VERSION=$(cat package.json | jq -r .version)
 yarn install --pure-lockfile
 yarn build
 
-# Sign
+#npx @grafana/toolkit plugin:sign
 
-mv dist/ walshy-dev-uptime
-zip -r "walshy-dev-uptime-$VERSION.zip" walshy-dev-uptime
+mv dist/ walshydev-uptime
+zip -r "walshydev-uptime-$VERSION.zip" walshydev-uptime

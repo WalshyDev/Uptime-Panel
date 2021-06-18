@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Uptime Panel",
-  "id": "walshy-dev-uptime",
+  "id": "walshydev-uptime",
   "info": {
     "description": "Used to show uptime of a service/application",
     "author": {
