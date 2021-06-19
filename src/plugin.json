@@ -28,7 +28,16 @@
         "url": "https://github.com/WalshyDev/Uptime-Panel/LICENSE"
       }
     ],
-    "screenshots": [],
+    "screenshots": [
+      {
+        "name": "Overview",
+        "path": "img/overview.png"
+      },
+      {
+        "name": "Panel and Query",
+        "path": "img/panel_and_query.png"
+      }
+    ],
     "version": "%VERSION%",
     "updated": "%TODAY%"
   },
