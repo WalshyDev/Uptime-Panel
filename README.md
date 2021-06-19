@@ -21,7 +21,7 @@ This is a custom Grafana panel, it will display the time since a given timestamp
 The panel is very easy to use and also has quite a few options to customise the simple thing.
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/8492901/122566764-d16c8800-d03f-11eb-8ff5-29ac3f777999.png" alt="Uptime panel">
+    <img src="https://user-images.githubusercontent.com/8492901/122574915-13013100-d048-11eb-8bbb-6c72b3f6113d.png" alt="Uptime panel">
 </div>
 
 ### Usage
